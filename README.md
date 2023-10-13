@@ -1,3 +1,5 @@
 # Git Demo: Blake Miller
 
-Actually learning Git
+Actually learning Git!
+
+Gonna learn some cool stuff!
